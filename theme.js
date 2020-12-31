@@ -1,40 +1,44 @@
 // COLORS
-export const color_alpha = '#8559EC';
-export const color_beta = '#E801EE';
-export const color_white = '#ffffff';
-export const color_black = '#000000';
+export const color_alpha = "#8559EC";
+export const color_beta = "#E801EE";
+export const color_white = "#ffffff";
+export const color_black = "#000000";
 
-export const color_state_info = '#29ABF0';
-export const color_state_info_l = '#29ABF0';
-export const color_state_success = '#279649';
-export const color_state_success_l = '#bde0dd';
-export const color_state_warning = '#FFB346';
-export const color_state_warning_l = '#FFECB3';
-export const color_state_danger = '#D84551';
-export const color_state_danger_l = '#f1d6d6';
+export const color_state_info = "#29ABF0";
+export const color_state_info_l = "#29ABF0";
+export const color_state_success = "#279649";
+export const color_state_success_l = "#bde0dd";
+export const color_state_warning = "#FFB346";
+export const color_state_warning_l = "#FFECB3";
+export const color_state_danger = "#D84551";
+export const color_state_danger_l = "#f1d6d6";
+export const color_status_green = "#18cfb0";
+export const color_status_red = "#FF5252";
+export const color_status_amber = "#FFC400";
 
-export const color_bg = '#FAFAFA';
-export const color_bg_card = '#FFFFFF';
+export const color_bg = "#f6f7f9";
+export const color_bg_card = "#FFFFFF";
 export const color_bg_warning = color_state_warning;
 export const color_bg_success = color_state_success;
 export const color_bg_info = color_state_info;
 export const color_bg_danger = color_state_danger;
 
-export const color_txt = '#2A2D3E';
-export const color_txt_light = '#7A7D7E';
-export const color_txt_pale = 'rgba(255,255,255,0.8)';
-export const color_txt_inverse_light = '#C3C7F5';
-export const color_txt_inverse = '#FFFFFF';
-export const color_border = '#EAEAEA';
+export const color_txt = "#313A5C";
+export const color_txt_light = "#485484";
+export const color_icon = "#c6d0dd";
+export const color_txt_pale = "rgba(255,255,255,0.8)";
+export const color_txt_inverse_light = "#C3C7F5";
+export const color_txt_inverse = "#FFFFFF";
+export const color_border = "#EAEAEA";
 
 // FONT FAMILIES
-export const font_family_alpha_t = 'Lato-Thin';
-export const font_family_alpha_l = 'Lato-Light';
-export const font_family_alpha_r = 'Lato-Regular';
-export const font_family_alpha_b = 'Lato-Bold';
-export const font_family_alpha_bl = 'Lato-Black';
-export const font_family_beta_r = 'NotoSans-Regular';
-export const font_family_beta_b = 'NotoSans-Bold';
+export const font_family_alpha_t = "Lato-Thin";
+export const font_family_alpha_l = "Lato-Light";
+export const font_family_alpha_r = "Lato-Regular";
+export const font_family_alpha_b = "Lato-Bold";
+export const font_family_alpha_bl = "Lato-Black";
+export const font_family_beta_r = "NotoSans-Regular";
+export const font_family_beta_b = "NotoSans-Bold";
 
 // FONT SIZES
 export const font_size_tiny = 10;
